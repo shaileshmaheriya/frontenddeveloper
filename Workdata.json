@@ -1,20 +1,11 @@
 [
     {
-        category : 'PHP',
-        Label : 'Servie Based Site',
-        Title : 'My First company project',
+        category : "PHP",
+        Label : "Servie Based Site",
+        Title : "My First company project",
         Image : require('../images/webmyne.png'),
-        Alt : 'Profile image',
-        Url : 'https://www.webmyne.com/'
-
-    },
-    {
-        category : 'PHP',
-        Label : 'Servie Based Site',
-        Title : 'My First company project',
-        Image : require('../images/commodityrental.png'),
-        Alt : 'Profile image',
-        Url : 'http://www.commodityrentals.com/'
+        Alt : "Profile image",
+        Url : "https://www.webmyne.com/"
 
     }
 ]
