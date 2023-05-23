@@ -5,7 +5,7 @@
         "Title" : "My First company project",
         "Alt" : "Profile image",
         "Url" : "https://www.webmyne.com/"
-        "Image" : "require('../images/webmyne.png')",
+        "Image" : require('../images/webmyne.png'),
 
     }
 ]
