@@ -4,35 +4,13 @@
         "Label" : "Servie Based Site",
         "Title" : "My First company project",
         "Alt" : "Profile image",
-        "Url" : "https://www.webmyne.com/",
+        "Url" : "https://www.webmyne.com/"
     },
-     {
+    {
         "category" : "PHP",
         "Label" : "Servie Based Site",
         "Title" : "My First company project",
         "Alt" : "Profile image",
-        "Url" : "https://www.webmyne.com/",
-    },
-     {
-        "category" : "PHP",
-        "Label" : "Servie Based Site",
-        "Title" : "My First company project",
-        "Alt" : "Profile image",
-        "Url" : "https://www.webmyne.com/",
-    },
-     {
-        "category" : "PHP",
-        "Label" : "Servie Based Site",
-        "Title" : "My First company project",
-        "Alt" : "Profile image",
-        "Url" : "https://www.webmyne.com/",
-    },
-     {
-        "category" : "PHP",
-        "Label" : "Servie Based Site",
-        "Title" : "My First company project",
-        "Alt" : "Profile image",
-        "Url" : "https://www.webmyne.com/",
-    },
-    
+        "Url" : "https://www.webmyne.com/"
+    }
 ]
