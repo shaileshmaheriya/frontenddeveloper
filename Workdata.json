@@ -33,6 +33,13 @@
         "Title": "My First company project",
         "Alt": "Profile image",
         "Url" : "https://www.webmyne.com/"
+    },
+    {
+        "category": "Sitecore",
+        "Label": "Servie Based Site",
+        "Title": "My Second company project",
+        "Alt": "Profile image",
+        "Url" : "https://www.webmyne.com/"
     }
 
 ]
