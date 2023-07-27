@@ -3,6 +3,7 @@
         "category": "PHP",
         "Label": "Servie Based Site",
         "Title": "My First company project",
+        "Image": "images/project1.jpg",
         "Alt": "Profile image",
         "Url": "https://www.webmyne.com/"
     },
