@@ -3,7 +3,7 @@
         "category": "PHP",
         "Label": "Servie Based Site",
         "Title": "My First company project",
-        "Image": require("https://shaileshmaheriya.github.io/frontenddeveloper/images/project1.jpg"),
+        "Image": "https://shaileshmaheriya.github.io/frontenddeveloper/images/project1.jpg",
         "Alt": "Profile image",
         "Url": "https://www.webmyne.com/"
     },
