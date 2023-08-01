@@ -1,0 +1,50 @@
+[
+    {
+       
+        "title" : "view project",
+        "link" : "https://www.theheinekencompany.com/",
+        "image" : "require("../images/project1.jpg")"
+    },
+    {
+       
+        "title" : "view project",
+        "link" : "https://www.jt-science.com/",
+        "image" : "require("../images/project2.jpg")"
+    },
+    {
+       
+        "title" : "view project",
+        "link" : "https://www.vantagetowers.com/en",
+        "image" : "require("../images/project3.jpg")"
+    },
+    {
+       
+        "title" : "view project",
+        "link" : "https://www.realtyincome.com/",
+        "image" : "require("../images/project4.jpg")"
+    },
+    {
+       
+        "title" : "view project",
+        "link" : "https://www.britishland.com/",
+        "image" : "require("../images/project5.jpg")"
+    },
+    {
+       
+        "title" : "view project",
+        "link" : "https://www.euroclinix.net/",
+        "image" : "require("../images/project6.jpg")"
+    },
+    {
+       
+        "title" : "view project",
+        "link" : "https://www.healthexpress.co.uk/",
+        "image" : "require("../images/project7.jpg")"
+    },
+    {
+       
+        "title" : "view project",
+        "link" : "https://www.121doc.com/en/",
+        "image" : "require("../images/project8.jpg")"
+    }
+]
